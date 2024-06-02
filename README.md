@@ -1,4 +1,4 @@
-# _240527_TEST_SUSPENSE. React + TypeScript + Vite
+# _240527_TEST_SUSPENSE (React + TypeScript + Vite)
 
 ## Info
 Describe 4 cases using `<Suspense>`
@@ -8,4 +8,4 @@ Describe 4 cases using `<Suspense>`
 - case 4. apply `<AsyncBoundary>`
 
 ## Run
-Access `http://localhost:5173/suspense` after `npm run dev`
+Access `http://localhost:5173` after `npm run dev`
